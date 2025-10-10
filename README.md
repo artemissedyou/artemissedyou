@@ -1,6 +1,6 @@
 - 🪷 Hi, I’m @ohasis
 - 🎮 I’m interested in using video games to make design research more accessible
-- 🌱 I completed a B.S. in Cognitive Science, specializing in Design and Interaction at UC San Diego in 2025
+- 🌱 I completed a Bachelor of Science in Cognitive Science, specializing in Design and Interaction at UC San Diego in 2025
 - 📫 Reach me via LinkedIn
 
 <!---
