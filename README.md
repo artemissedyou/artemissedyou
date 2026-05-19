@@ -1,9 +1,8 @@
-- 🪷 Hi, I’m @ohasis
-- 🎮 I’m interested in using video games to make design research more accessible
-- 🌱 I completed a Bachelor of Science in Cognitive Science, specializing in Design and Interaction at UC San Diego in 2025
-- 📫 Reach me via LinkedIn
+- Hi, I’m @artemissedyou
+- I’m a UX researcher and product designer with a B.S. in Cognitive Science from UC San Diego, specializing in Design & Interaction
+- I use mixed-methods research, usability testing, and AI-assisted workflows to transform user behavior into clear product decisions
 
 <!---
-the0asis/the0asis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+artemissedyou/artemissedyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
