@@ -1,4 +1,3 @@
-- Hi, I’m @artemissedyou
 - I’m a UX researcher and product designer with a B.S. in Cognitive Science from UC San Diego, specializing in Design & Interaction
 - I use mixed-methods research, usability testing, and AI-assisted workflows to transform user behavior into clear product decisions
 
